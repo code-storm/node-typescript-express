@@ -11,8 +11,7 @@
   
   <img src="https://api.travis-ci.org/code-storm/node-typescript-express.svg?branch=master" alt="travis" />
 
-<img src="https://ci.appveyor.com/api/projects/status/49cm972vsgro9xwf?svg=true
-" alt="appveyor" />
+<img src="https://ci.appveyor.com/api/projects/status/49cm972vsgro9xwf?svg=true" alt="appveyor" />
   
    
 </p>
