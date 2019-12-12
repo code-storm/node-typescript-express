@@ -1,7 +1,7 @@
 # node-typescript-express
 
 <p align="center">
-  <img src="./code-storm-image.jpg" alt="code-storm" width="400" />
+  <img src="./code-storm-image.jpeg" alt="code-storm" width="400" />
 </p>
 
 <h1 align="center">Node Typescript Express Boilerplate</h1>
