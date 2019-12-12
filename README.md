@@ -7,7 +7,7 @@
 <h1 align="center">Node Typescript Express Boilerplate</h1>
 
 <p align="center">
-  <img src="https://david-dm.org/code-storm/node-typescript-express/dev-status.svg"/>
+  <img src="https://david-dm.org/code-storm/node-typescript-express.svg"/>
   
   <img src="https://api.travis-ci.org/code-storm/node-typescript-express.svg?branch=master" alt="travis" />
 
