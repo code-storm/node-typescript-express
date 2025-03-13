@@ -7,14 +7,17 @@
     "start": "tsc && node dist/app.js",
     "test": "echo \"Error: no test specified\""
   },
-  "author": "",
+  "author": "Mudit Khandelwal (code-storm)",
   "license": "ISC",
   "devDependencies": {
-    "@types/express": "^4.17.2",
-    "tslint": "^5.20.1",
-    "typescript": "^3.7.3"
+    "@eslint/js": "^9.22.0",
+    "@types/express": "^5.0.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0",
+    "typescript": "5.8",
+    "typescript-eslint": "^8.26.1"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^5.0.1"
   }
 }
