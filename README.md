@@ -7,13 +7,16 @@
 <h1 align="center">Node Typescript Express Boilerplate</h1>
 
 <p align="center">
-  <img src="https://david-dm.org/code-storm/node-typescript-express.svg"/>
-  
-  <img src="https://api.travis-ci.org/code-storm/node-typescript-express.svg?branch=master" alt="travis" />
+
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcode-storm%2Fnode-typescript-express%2Frefs%2Fheads%2Fmaster%2Fpackage.json&query=%24.dependencies.express&label=express)
+
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcode-storm%2Fnode-typescript-express%2Frefs%2Fheads%2Fmaster%2Fpackage.json&query=%24.devDependencies.typescript&label=typescript)
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcode-storm%2Fnode-typescript-express%2Frefs%2Fheads%2Fmaster%2Fpackage.json&query=%24.devDependencies.eslint&label=eslint)
+
 
 <img src="https://ci.appveyor.com/api/projects/status/49cm972vsgro9xwf?svg=true" alt="appveyor" />
   
-   
 </p>
 
 <p align="center">
