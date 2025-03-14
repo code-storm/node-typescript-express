@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && NODE_ENV=development node dist/app.js",
+    "start": "tsc && NODE_ENV=development node --env-file=.env.local dist/app.js",
     "dev": "tsc -w & NODE_ENV=development node --env-file=.env.local --watch dist/app.js",
     "test": "echo \"Error: no test specified\""
   },
   "author": "Mudit Khandelwal (code-storm)",
+  "keywords": ["node", "typescript", "express", "mongoose", "winston"],
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.22.0",
@@ -20,6 +21,7 @@
   },
   "dependencies": {
     "express": "^5.0.1",
+    "mongoose": "^8.12.1",
     "winston": "^3.17.0"
   }
 }
